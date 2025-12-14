@@ -28,4 +28,4 @@ else:
 print("Script Name :", script_name)
 print("String :", s)
 print("Reversed String :", reverse)
-print("Result :", result)
+print("Result :", result)
